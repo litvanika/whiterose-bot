@@ -5,6 +5,8 @@ import random
 import requests
 import tweepy
 
+from errors import IncorrectLengthError
+
 
 def auth_v1(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.API:
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -20,11 +22,22 @@ def auth_v2(consumer_key, consumer_secret, access_token, access_token_secret) ->
     )
 
 
-def get_random_media() -> str:
+def get_random_medias() -> list[str]:
     path = 'assets'
     objects = os.listdir(path)
+
     media = random.choice(objects)
-    return os.path.join(path, media)
+    media_path = os.path.join(path, media)
+    if os.path.isfile(media_path):
+        return [media_path]
+    
+    medias = os.listdir(media_path)
+    if 'order.json' not in medias:
+        raise FileNotFoundError(f'`order.json` must exists inside `{media_path}`')
+    if len(medias) < 1 or len(medias) > 4:
+        raise IncorrectLengthError(media_path)
+    
+    return [os.path.join(media_path, media) for media in medias if media != 'order.json']
 
 
 def tweet() -> requests.Response:
@@ -38,10 +51,10 @@ def tweet() -> requests.Response:
     client_v2 = auth_v2(consumer_key, consumer_secret,
                         access_token, access_token_secret)
 
-    media = get_random_media()
-    media_id = api_v1.media_upload(media).media_id
+    medias = get_random_medias()
+    media_ids = [api_v1.media_upload(media).media_id for media in medias]
 
-    return client_v2.create_tweet(media_ids=[media_id])
+    return client_v2.create_tweet(media_ids=media_ids)
 
 
 def log(response: requests.Response | Exception):
@@ -66,13 +79,12 @@ def log(response: requests.Response | Exception):
             if 'data' in json and 'id' in json['data']:
                 tweet_id = json['data']['id']
                 logger.info(
-                    f'Created a tweet with id {tweet_id}: https://twitter.com/WhiteRoseBot/status/{tweet_id}/')
+                    f'Created a tweet with id {tweet_id}: '
+                    'https://twitter.com/1715435861431451648/status/{tweet_id}/')
             else:
                 logger.info(default_message)
         elif response.status_code // 100 == 3:
             logger.warn(default_message)
-        elif response.status_code == 418:  # Error 418 - I'm a teapot
-            logger.info(default_message)
         else:
             logger.error(default_message)
 
