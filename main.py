@@ -32,12 +32,15 @@ def get_random_medias() -> list[str]:
         return [media_path]
     
     medias = os.listdir(media_path)
-    if 'order.json' not in medias:
-        raise FileNotFoundError(f'`order.json` must exists inside `{media_path}`')
-    if len(medias) < 1 or len(medias) > 4:
+    if 'order.txt' not in medias:
+        raise FileNotFoundError(f'`order.txt` must exists inside `{media_path}`')
+    if len(medias) < 2 or len(medias) > 5:
         raise IncorrectLengthError(media_path)
     
-    return [os.path.join(media_path, media) for media in medias if media != 'order.json']
+    with open('order.txt', 'r') as order_file:
+        medias = order_file.readlines()
+    
+    return [os.path.join(media_path, media) for media in medias]
 
 
 def tweet() -> requests.Response:
