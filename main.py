@@ -57,7 +57,7 @@ def log(response: requests.Response | Exception):
     logger_file_handler.setFormatter(formatter)
     logger.addHandler(logger_file_handler)
 
-    if response is Exception or response is not requests.Response:
+    if response is Exception:
         logger.error(response)
     else:
         default_message = f'{response.status_code}: {response.reason}'
