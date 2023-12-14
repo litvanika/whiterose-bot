@@ -1,6 +1,7 @@
 name: tweet a random WhiteRose tweet
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *' # runs every hour at 0 minutes
 
