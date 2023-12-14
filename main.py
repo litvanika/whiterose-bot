@@ -66,7 +66,7 @@ def log(response: requests.Response | Exception):
             if 'data' in json and 'id' in json['data']:
                 tweet_id = json['data']['id']
                 logger.info(
-                    f'Tweeted a tweet with id {tweet_id}: https://twitter.com/WhiteRoseBot/status/{tweet_id}/')
+                    f'Created a tweet with id {tweet_id}: https://twitter.com/WhiteRoseBot/status/{tweet_id}/')
             else:
                 logger.info(default_message)
         elif response.status_code // 100 == 3:
