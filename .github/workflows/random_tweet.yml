@@ -1,9 +1,9 @@
-name: tweet a random WhiteRose tweet
+name: create a random WhiteRose tweet
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 * * * *' # runs every hour at 30 minutes
+  # schedule: # disable cron for github actions as they are slow. https://cron-job.org does a much better job
+  #   - cron: '30 * * * *' # runs every hour at 30 minutes
 
 jobs:
   build:
