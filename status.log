@@ -24,3 +24,5 @@
 2023-12-15 16:00:54,726 - __main__ - INFO - Created a tweet with id 1735691410425229654: https://twitter.com/1715435861431451648/status/1735691410425229654/
 2023-12-15 17:00:55,049 - __main__ - INFO - Created a tweet with id 1735706511437893756: https://twitter.com/1715435861431451648/status/1735706511437893756/
 2023-12-15 18:00:54,820 - __main__ - INFO - Created a tweet with id 1735721603252547928: https://twitter.com/1715435861431451648/status/1735721603252547928/
+2023-12-15 19:00:57,456 - __main__ - ERROR - 400 Bad Request
+media type unrecognized.
