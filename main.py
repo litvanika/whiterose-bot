@@ -37,7 +37,7 @@ def get_random_medias() -> list[str]:
     if len(medias) < 2 or len(medias) > 5: # +1 file for order.txt
         raise IncorrectLengthError(media_path)
     
-    with open(f'{media_path}/order.txt', 'r') as order_file:
+    with open(os.path.join(media_path, 'order.txt'), 'r') as order_file:
         medias = order_file.readlines()
     
     return [os.path.join(media_path, media) for media in medias]
