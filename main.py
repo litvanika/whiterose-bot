@@ -43,7 +43,7 @@ def get_random_medias() -> list[str]:
     return [os.path.join(media_path, media) for media in medias]
 
 
-def tweet() -> requests.Response:
+def tweet(medias: list[str]) -> requests.Response:
     consumer_key = os.environ['CONSUMER_KEY']
     consumer_secret = os.environ['CONSUMER_SECRET']
     access_token = os.environ['ACCESS_TOKEN']
@@ -54,13 +54,12 @@ def tweet() -> requests.Response:
     client_v2 = auth_v2(consumer_key, consumer_secret,
                         access_token, access_token_secret)
 
-    medias = get_random_medias()
     media_ids = [api_v1.media_upload(media).media_id for media in medias]
 
     return client_v2.create_tweet(media_ids=media_ids)
 
 
-def log(response: requests.Response | Exception):
+def log(response: requests.Response | Exception, medias: list[str]):
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
     logger_file_handler = logging.handlers.RotatingFileHandler(
@@ -74,7 +73,7 @@ def log(response: requests.Response | Exception):
     logger.addHandler(logger_file_handler)
 
     if isinstance(response, Exception) or not isinstance(response, requests.Response):
-        logger.error(response)
+        logger.error(f'Failed to upload media: {medias}: response')
     else:
         default_message = f'{response.status_code}: {response.reason}'
         if response.status_code // 100 == 2:
@@ -82,23 +81,24 @@ def log(response: requests.Response | Exception):
             if 'data' in json and 'id' in json['data']:
                 tweet_id = json['data']['id']
                 logger.info(
-                    f'Created a tweet with id {tweet_id}: '
+                    f'Created a tweet with media: {medias} id {tweet_id}: '
                     f'https://twitter.com/1715435861431451648/status/{tweet_id}/')
             else:
-                logger.info(default_message)
+                logger.info(f'Uploaded media: {medias}: {default_message}')
         elif response.status_code // 100 == 3:
-            logger.warn(default_message)
+            logger.warn(f'Tried to upload media: {medias}: {default_message}')
         else:
-            logger.error(default_message)
+            logger.error(f'Failed to upload media: {medias}: {default_message}')
 
 
 def main():
+    medias = get_random_medias()
     try:
-        response = tweet()
+        response = tweet(medias)
     except Exception as e:
-        log(e)
+        log(e, medias)
     else:
-        log(response)
+        log(response, medias)
 
 
 if __name__ == '__main__':
