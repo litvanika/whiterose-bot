@@ -34,10 +34,10 @@ def get_random_medias() -> list[str]:
     medias = os.listdir(media_path)
     if 'order.txt' not in medias:
         raise FileNotFoundError(f'`order.txt` must exists inside `{media_path}`')
-    if len(medias) < 2 or len(medias) > 5:
+    if len(medias) < 2 or len(medias) > 5: # +1 file for order.txt
         raise IncorrectLengthError(media_path)
     
-    with open('order.txt', 'r') as order_file:
+    with open(f'{media_path}/order.txt', 'r') as order_file:
         medias = order_file.readlines()
     
     return [os.path.join(media_path, media) for media in medias]
@@ -73,7 +73,7 @@ def log(response: requests.Response | Exception):
     logger_file_handler.setFormatter(formatter)
     logger.addHandler(logger_file_handler)
 
-    if response is Exception:
+    if isinstance(response, Exception) or not isinstance(response, requests.Response):
         logger.error(response)
     else:
         default_message = f'{response.status_code}: {response.reason}'
