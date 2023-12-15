@@ -83,7 +83,7 @@ def log(response: requests.Response | Exception):
                 tweet_id = json['data']['id']
                 logger.info(
                     f'Created a tweet with id {tweet_id}: '
-                    'https://twitter.com/1715435861431451648/status/{tweet_id}/')
+                    f'https://twitter.com/1715435861431451648/status/{tweet_id}/')
             else:
                 logger.info(default_message)
         elif response.status_code // 100 == 3:
