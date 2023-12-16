@@ -35,3 +35,4 @@ media type unrecognized.
 2023-12-16 02:00:49,265 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] id 1735842382472511909: https://twitter.com/1715435861431451648/status/1735842382472511909/
 2023-12-16 03:00:52,287 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v5_rwby_group_hug.gif'] id 1735857494226767996: https://twitter.com/1715435861431451648/status/1735857494226767996/
 2023-12-16 04:00:51,851 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] id 1735872592341512282: https://twitter.com/1715435861431451648/status/1735872592341512282/
+2023-12-16 05:00:50,906 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] id 1735887687985311774: https://twitter.com/1715435861431451648/status/1735887687985311774/
