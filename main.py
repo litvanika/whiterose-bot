@@ -8,20 +8,6 @@ import tweepy
 from errors import IncorrectLengthError
 
 
-def auth_v1(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.API:
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
-    return tweepy.API(auth)
-
-
-def auth_v2(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.Client:
-    return tweepy.Client(
-        consumer_key=consumer_key, consumer_secret=consumer_secret,
-        access_token=access_token, access_token_secret=access_token_secret,
-        return_type=requests.Response,
-    )
-
-
 def get_random_medias() -> list[str]:
     path = 'assets'
     objects = os.listdir(path)
@@ -41,6 +27,20 @@ def get_random_medias() -> list[str]:
         medias = order_file.readlines()
     
     return [os.path.join(media_path, media) for media in medias]
+
+
+def auth_v1(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.API:
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    return tweepy.API(auth)
+
+
+def auth_v2(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.Client:
+    return tweepy.Client(
+        consumer_key=consumer_key, consumer_secret=consumer_secret,
+        access_token=access_token, access_token_secret=access_token_secret,
+        return_type=requests.Response,
+    )
 
 
 def tweet(medias: list[str]) -> requests.Response:
@@ -92,8 +92,8 @@ def log(response: requests.Response | Exception, medias: list[str]):
 
 
 def main():
-    medias = get_random_medias()
     try:
+        medias = get_random_medias()
         response = tweet(medias)
     except Exception as e:
         log(e, medias)
