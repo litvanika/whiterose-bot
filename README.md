@@ -2,7 +2,7 @@
 
 ![WhiteRose](assets/whiterose.png "WhiteRose")
 
-A simple Twitter bot that posts SFW images of WhiteRose every hour.
+A Twitter bot that tweets images of WhiteRose every hour.
 
 It is based on [this repository](https://github.com/patrickloeber/python-github-action-template/tree/main).
 
