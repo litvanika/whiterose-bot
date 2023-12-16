@@ -46,3 +46,4 @@ media type unrecognized.
 2023-12-16 13:00:51,089 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1736008484485833195: https://twitter.com/1715435861431451648/status/1736008484485833195/
 2023-12-16 14:00:53,193 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg'] and id 1736023593140748529: https://twitter.com/1715435861431451648/status/1736023593140748529/
 2023-12-16 15:00:51,518 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1736038684883841167: https://twitter.com/1715435861431451648/status/1736038684883841167/
+2023-12-16 16:00:49,722 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1736053777453465950: https://twitter.com/1715435861431451648/status/1736053777453465950/
