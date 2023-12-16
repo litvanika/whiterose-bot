@@ -32,3 +32,4 @@ media type unrecognized.
 2023-12-15 23:00:54,672 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif'] id 1735797106676507120: https://twitter.com/1715435861431451648/status/1735797106676507120/
 2023-12-16 00:00:51,463 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_standing.jpg'] id 1735812192539402539: https://twitter.com/1715435861431451648/status/1735812192539402539/
 2023-12-16 01:00:54,729 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_comforting_each_other.gif'] id 1735827305765670969: https://twitter.com/1715435861431451648/status/1735827305765670969/
+2023-12-16 02:00:49,265 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] id 1735842382472511909: https://twitter.com/1715435861431451648/status/1735842382472511909/
