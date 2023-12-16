@@ -44,3 +44,4 @@ media type unrecognized.
 2023-12-16 11:00:51,358 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] id 1735978284423213402: https://twitter.com/1715435861431451648/status/1735978284423213402/
 2023-12-16 12:00:51,897 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] id 1735993388460016065: https://twitter.com/1715435861431451648/status/1735993388460016065/
 2023-12-16 13:00:51,089 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1736008484485833195: https://twitter.com/1715435861431451648/status/1736008484485833195/
+2023-12-16 14:00:53,193 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg'] and id 1736023593140748529: https://twitter.com/1715435861431451648/status/1736023593140748529/
