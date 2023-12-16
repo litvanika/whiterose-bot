@@ -73,7 +73,7 @@ def log(response: requests.Response | Exception, medias: list[str]):
     logger.addHandler(logger_file_handler)
 
     if isinstance(response, Exception) or not isinstance(response, requests.Response):
-        logger.error(f'Failed to upload media: {medias}: response')
+        logger.error(f'Failed to upload media: {medias}: {response}')
     else:
         default_message = f'{response.status_code}: {response.reason}'
         if response.status_code // 100 == 2:
@@ -81,7 +81,7 @@ def log(response: requests.Response | Exception, medias: list[str]):
             if 'data' in json and 'id' in json['data']:
                 tweet_id = json['data']['id']
                 logger.info(
-                    f'Created a tweet with media: {medias} id {tweet_id}: '
+                    f'Created a tweet with media: {medias} and id {tweet_id}: '
                     f'https://twitter.com/1715435861431451648/status/{tweet_id}/')
             else:
                 logger.info(f'Uploaded media: {medias}: {default_message}')
