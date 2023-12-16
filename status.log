@@ -42,3 +42,4 @@ media type unrecognized.
 2023-12-16 09:00:51,953 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: response
 2023-12-16 10:00:51,477 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: response
 2023-12-16 11:00:51,358 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] id 1735978284423213402: https://twitter.com/1715435861431451648/status/1735978284423213402/
+2023-12-16 12:00:51,897 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] id 1735993388460016065: https://twitter.com/1715435861431451648/status/1735993388460016065/
