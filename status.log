@@ -61,3 +61,5 @@ media type unrecognized.
 2023-12-17 04:00:48,752 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_comforting_each_other.gif'] and id 1736234967112311202: https://twitter.com/1715435861431451648/status/1736234967112311202/
 2023-12-17 05:00:54,275 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_explosion.jpeg'] and id 1736250090082173361: https://twitter.com/1715435861431451648/status/1736250090082173361/
 2023-12-17 06:00:58,806 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_hugging_and_crying_volume_1_pos.jpeg'] and id 1736265208467968155: https://twitter.com/1715435861431451648/status/1736265208467968155/
+2023-12-17 07:00:52,015 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
+Your media IDs are invalid.
