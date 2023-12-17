@@ -57,3 +57,4 @@ media type unrecognized.
 2023-12-17 00:00:51,518 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1736174580815765816: https://twitter.com/1715435861431451648/status/1736174580815765816/
 2023-12-17 01:01:05,864 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1736189740406149380: https://twitter.com/1715435861431451648/status/1736189740406149380/
 2023-12-17 02:00:51,612 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] and id 1736204780345737613: https://twitter.com/1715435861431451648/status/1736204780345737613/
+2023-12-17 03:00:53,899 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n', 'assets/whiterose_angst_v8/whiterose_v8_angst_2.png\n']: [Errno 2] No such file or directory: 'assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n'
