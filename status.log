@@ -67,3 +67,4 @@ Your media IDs are invalid.
 media type unrecognized.
 2023-12-17 09:00:48,160 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n', 'assets/whiterose_angst_v8/whiterose_v8_angst_2.png\n']: [Errno 2] No such file or directory: 'assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n'
 2023-12-17 10:00:52,059 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_get_whiterosed_lmao.gif'] and id 1736325577986957336: https://twitter.com/1715435861431451648/status/1736325577986957336/
+2023-12-17 11:01:14,399 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1736340770632958269: https://twitter.com/1715435861431451648/status/1736340770632958269/
