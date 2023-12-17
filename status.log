@@ -72,3 +72,4 @@ media type unrecognized.
 2023-12-17 13:00:53,736 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 400 Bad Request
 Your media IDs are invalid.
 2023-12-17 14:01:15,571 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1736386074291921321: https://twitter.com/1715435861431451648/status/1736386074291921321/
+2023-12-17 15:00:48,032 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1736401058727870482: https://twitter.com/1715435861431451648/status/1736401058727870482/
