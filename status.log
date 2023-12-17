@@ -63,3 +63,5 @@ media type unrecognized.
 2023-12-17 06:00:58,806 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_hugging_and_crying_volume_1_pos.jpeg'] and id 1736265208467968155: https://twitter.com/1715435861431451648/status/1736265208467968155/
 2023-12-17 07:00:52,015 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
 Your media IDs are invalid.
+2023-12-17 08:00:54,079 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 400 Bad Request
+media type unrecognized.
