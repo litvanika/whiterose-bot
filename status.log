@@ -65,3 +65,4 @@ media type unrecognized.
 Your media IDs are invalid.
 2023-12-17 08:00:54,079 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 400 Bad Request
 media type unrecognized.
+2023-12-17 09:00:48,160 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n', 'assets/whiterose_angst_v8/whiterose_v8_angst_2.png\n']: [Errno 2] No such file or directory: 'assets/whiterose_angst_v8/whiterose_v8_angst_1.png\n'
