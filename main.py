@@ -26,7 +26,7 @@ def get_random_medias() -> list[str]:
     with open(os.path.join(media_path, 'order.txt'), 'r') as order_file:
         medias = order_file.readlines()
     
-    return [os.path.join(media_path, media) for media in medias]
+    return [os.path.join(media_path, media.strip()) for media in medias]
 
 
 def auth_v1(consumer_key, consumer_secret, access_token, access_token_secret) -> tweepy.API:
