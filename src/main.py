@@ -23,7 +23,6 @@ def get_random_assets() -> list[str]:
     all_assets = os.listdir(path)
 
     asset = random.choice(all_assets)
-    asset = 'whiterose_perfection'
 
     asset_path = os.path.join(path, asset)
     if os.path.isfile(asset_path):
