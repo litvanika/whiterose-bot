@@ -85,3 +85,4 @@ media type unrecognized.
 media type unrecognized.
 2023-12-18 00:00:49,068 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v6_sliding_in_to_the_screen_from_the_left.gif'] and id 1736536958468591841: https://twitter.com/1715435861431451648/status/1736536958468591841/
 2023-12-18 01:01:25,720 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1736552212006895973: https://twitter.com/1715435861431451648/status/1736552212006895973/
+2023-12-18 02:00:49,776 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1736567160338567504: https://twitter.com/1715435861431451648/status/1736567160338567504/
