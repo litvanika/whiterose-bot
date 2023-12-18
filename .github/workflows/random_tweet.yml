@@ -29,14 +29,14 @@ jobs:
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
-        run: python main.py
+        run: python src/main.py
           
       - name: commit files
         run: |
           git config --local user.email "74470263+litvanika@users.noreply.github.com"
           git config --local user.name "litvanika"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "convert webp to gifs and update logs" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Hourly tweet" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
