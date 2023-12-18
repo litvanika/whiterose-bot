@@ -88,3 +88,4 @@ media type unrecognized.
 2023-12-18 02:00:49,776 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1736567160338567504: https://twitter.com/1715435861431451648/status/1736567160338567504/
 2023-12-18 03:00:50,121 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1736582261443834319: https://twitter.com/1715435861431451648/status/1736582261443834319/
 2023-12-18 04:00:47,763 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_ace_rubes_pfp_v7.webp'] and id 1736597351093961181: https://twitter.com/1715435861431451648/status/1736597351093961181/
+2023-12-18 05:00:49,721 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1736612458804990028: https://twitter.com/1715435861431451648/status/1736612458804990028/
