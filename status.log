@@ -93,3 +93,4 @@ media type unrecognized.
 media type unrecognized.
 2023-12-18 07:00:51,012 - __main__ - ERROR - Failed to upload media: ['assets/whiterose_standing_up_in_v6_opening.gif']: 400 Bad Request
 media type unrecognized.
+2023-12-18 08:00:53,333 - __main__ - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1736657772425687543: https://twitter.com/1715435861431451648/status/1736657772425687543/
