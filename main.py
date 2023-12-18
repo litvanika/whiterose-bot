@@ -6,6 +6,7 @@ import requests
 import tweepy
 
 from errors import IncorrectLengthError
+from webp_to_gif import convert_all_images_to_gif
 
 
 def get_random_medias() -> list[str]:
@@ -59,7 +60,7 @@ def tweet(medias: list[str]) -> requests.Response:
     return client_v2.create_tweet(media_ids=media_ids)
 
 
-def log(response: requests.Response | Exception, medias: list[str]):
+def log(response: requests.Response | Exception, medias: list[str]) -> None:
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
     logger_file_handler = logging.handlers.RotatingFileHandler(
@@ -93,6 +94,7 @@ def log(response: requests.Response | Exception, medias: list[str]):
 
 def main():
     try:
+        convert_all_images_to_gif()
         medias = get_random_medias()
         response = tweet(medias)
     except Exception as e:
