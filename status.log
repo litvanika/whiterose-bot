@@ -115,3 +115,4 @@ media type unrecognized.
 2023-12-19 02:00:53,315 - log - ERROR - Failed to upload media: None: 400 Bad Request
 Your media IDs are invalid.
 2023-12-19 03:00:50,836 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif'] and id 1736944651825742184: https://twitter.com/1715435861431451648/status/1736944651825742184/
+2023-12-19 04:00:54,086 - log - INFO - Created a tweet with media: ['assets/whiterose_kiss.gif'] and id 1736959764729593887: https://twitter.com/1715435861431451648/status/1736959764729593887/
