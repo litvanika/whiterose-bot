@@ -128,3 +128,4 @@ Your media IDs are invalid.
 2023-12-19 14:00:55,629 - log - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1737110766015435130: https://twitter.com/1715435861431451648/status/1737110766015435130/
 2023-12-19 15:00:55,958 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
 Your media IDs are invalid.
+2023-12-19 16:00:56,456 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1737140969018171432: https://twitter.com/1715435861431451648/status/1737140969018171432/
