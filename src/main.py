@@ -71,7 +71,7 @@ def main():
         assets = get_random_assets()
         response = tweet(assets)
     except Exception as e:
-        log(e)
+        log(e, assets)
     else:
         log(response, assets)
 
