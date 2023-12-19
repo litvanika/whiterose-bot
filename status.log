@@ -111,3 +111,4 @@ media type unrecognized.
 2023-12-18 22:00:55,962 - log - INFO - Created a tweet with media: ['assets/whiterose_get_whiterosed_lmao.gif'] and id 1736869176336343067: https://twitter.com/1715435861431451648/status/1736869176336343067/
 2023-12-18 23:00:56,285 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1736884277420216514: https://twitter.com/1715435861431451648/status/1736884277420216514/
 2023-12-19 00:00:54,050 - log - INFO - Created a tweet with media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg'] and id 1736899367389298903: https://twitter.com/1715435861431451648/status/1736899367389298903/
+2023-12-19 01:01:17,170 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1736914563487133714: https://twitter.com/1715435861431451648/status/1736914563487133714/
