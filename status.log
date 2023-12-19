@@ -125,3 +125,4 @@ Your media IDs are invalid.
 2023-12-19 11:00:52,489 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1737065454705775069: https://twitter.com/1715435861431451648/status/1737065454705775069/
 2023-12-19 12:00:54,241 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_before_comforting_each_other_in_v9.jpg'] and id 1737080561787601312: https://twitter.com/1715435861431451648/status/1737080561787601312/
 2023-12-19 13:00:55,464 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1737095666655228192: https://twitter.com/1715435861431451648/status/1737095666655228192/
+2023-12-19 14:00:55,629 - log - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1737110766015435130: https://twitter.com/1715435861431451648/status/1737110766015435130/
