@@ -22,6 +22,7 @@ def get_random_assets() -> list[str]:
     path = 'assets'
     all_assets = os.listdir(path)
 
+    random.shuffle(all_assets)
     asset = random.choice(all_assets)
 
     asset_path = os.path.join(path, asset)

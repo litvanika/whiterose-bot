@@ -14,6 +14,7 @@ def get_assets(path: str) -> list[str]:
             os.path.splitext(asset)[1] in FILE_EXTENSIONS,
         all_assets,
     ))
+    random.shuffle(file_assets)
     assets = random.sample(file_assets, 3)
     full_path_assets = [os.path.join(assets_path, asset) for asset in assets]
     return [os.path.join(path, 'perfection.png')] + full_path_assets
