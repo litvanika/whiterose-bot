@@ -174,3 +174,4 @@ Your media IDs are invalid.
 2023-12-21 11:01:01,187 - log - INFO - Created a tweet with media: ['assets/whiterose_angst_v8.mp4'] and id 1737790267690815773: https://twitter.com/1715435861431451648/status/1737790267690815773/
 2023-12-21 12:00:55,829 - log - ERROR - Failed to upload media: ['assets/whiterose_its_a_combat_skirt.gif']: 503 Service Unavailable
 Service Unavailable
+2023-12-21 13:00:56,796 - log - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1737820448019067312: https://twitter.com/1715435861431451648/status/1737820448019067312/
