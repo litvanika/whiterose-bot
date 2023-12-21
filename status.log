@@ -182,3 +182,4 @@ Service Unavailable
 2023-12-21 18:00:58,014 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif'] and id 1737895950612594806: https://twitter.com/1715435861431451648/status/1737895950612594806/
 2023-12-21 19:00:56,851 - log - INFO - Created a tweet with media: ['assets/whiterose_combat_ready.gif'] and id 1737911045102997694: https://twitter.com/1715435861431451648/status/1737911045102997694/
 2023-12-21 20:00:51,856 - log - INFO - Created a tweet with media: ['assets/whiterose_combat_ready.gif'] and id 1737926123688804561: https://twitter.com/1715435861431451648/status/1737926123688804561/
+2023-12-21 21:00:54,193 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1737941232934871310: https://twitter.com/1715435861431451648/status/1737941232934871310/
