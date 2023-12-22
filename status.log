@@ -194,3 +194,5 @@ Service Unavailable
 2023-12-22 06:00:55,357 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1738077133384159594: https://twitter.com/1715435861431451648/status/1738077133384159594/
 2023-12-22 07:00:55,353 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_with_petals.gif'] and id 1738092232652005418: https://twitter.com/1715435861431451648/status/1738092232652005418/
 2023-12-22 08:00:55,921 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1738107334918824270: https://twitter.com/1715435861431451648/status/1738107334918824270/
+2023-12-22 09:00:53,625 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
+Your media IDs are invalid.
