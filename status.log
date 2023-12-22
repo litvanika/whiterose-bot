@@ -197,3 +197,4 @@ Service Unavailable
 2023-12-22 09:00:53,625 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
 Your media IDs are invalid.
 2023-12-22 10:00:55,458 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1738137531911180581: https://twitter.com/1715435861431451648/status/1738137531911180581/
+2023-12-22 11:00:54,911 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1738152629065355400: https://twitter.com/1715435861431451648/status/1738152629065355400/
