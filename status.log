@@ -224,3 +224,4 @@ Your media IDs are invalid.
 2023-12-23 10:00:55,854 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 400 Bad Request
 Your media IDs are invalid.
 2023-12-23 11:00:53,230 - log - INFO - Created a tweet with media: ['assets/whiterose_its_a_combat_skirt.gif'] and id 1738515007875264686: https://twitter.com/1715435861431451648/status/1738515007875264686/
+2023-12-23 12:00:54,122 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_looking_at_ruby_softly.gif'] and id 1738530113073840568: https://twitter.com/1715435861431451648/status/1738530113073840568/
