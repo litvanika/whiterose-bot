@@ -7,7 +7,7 @@ import requests
 import tweepy
 
 from log import log
-from webp_to_gif import convert_all_images_to_gif
+from webp_to_gif import convert_all_webp_to_gif
 
 
 def get_assets(path: str) -> list[str]:
@@ -60,7 +60,7 @@ def tweet(assets: list[str]) -> requests.Response:
     client_v2 = auth_v2(consumer_key, consumer_secret,
                         access_token, access_token_secret)
 
-    media_ids = [api_v1.media_upload(asset).media_id for asset in assets]
+    media_ids = [api_v1.media_upload(asset).media_id_string for asset in assets]
 
     return client_v2.create_tweet(media_ids=media_ids)
 
@@ -68,7 +68,7 @@ def tweet(assets: list[str]) -> requests.Response:
 def main():
     assets = None
     try:
-        convert_all_images_to_gif()
+        convert_all_webp_to_gif()
         assets = get_random_assets()
         response = tweet(assets)
     except Exception as e:

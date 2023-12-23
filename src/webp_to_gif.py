@@ -11,7 +11,7 @@ def webp_to_gif(filepath: str) -> None:
 
 
 # https://stackoverflow.com/questions/52016407/how-to-convert-webp-image-to-gif-with-python
-def convert_all_images_to_gif() -> None:
+def convert_all_webp_to_gif() -> None:
     for (dirpath, dirnames, filenames) in os.walk('assets'):
         for filename in filenames:
             try:
