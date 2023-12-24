@@ -258,3 +258,5 @@ Your media IDs are invalid.
 Your media IDs are invalid.
 2023-12-24 19:00:54,154 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1738998197509304563: https://twitter.com/1715435861431451648/status/1738998197509304563/
 2023-12-24 20:01:02,028 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_catches_ruby.gif'] and id 1739013329480520053: https://twitter.com/1715435861431451648/status/1739013329480520053/
+2023-12-24 21:00:53,844 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 400 Bad Request
+Your media IDs are invalid.
