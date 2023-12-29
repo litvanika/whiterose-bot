@@ -359,3 +359,4 @@ Your media IDs are invalid.
 2023-12-28 22:00:48,413 - log - INFO - Created a tweet with media: ['assets/whiterose_hug_jl_part_2_ending.jpg'] and id 1740493023430029602: https://twitter.com/1715435861431451648/status/1740493023430029602/
 2023-12-28 23:00:57,891 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 400 Bad Request
 Your media IDs are invalid.
+2023-12-29 00:00:56,780 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1740523257219178566: https://twitter.com/1715435861431451648/status/1740523257219178566/
