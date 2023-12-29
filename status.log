@@ -360,3 +360,4 @@ Your media IDs are invalid.
 2023-12-28 23:00:57,891 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 400 Bad Request
 Your media IDs are invalid.
 2023-12-29 00:00:56,780 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1740523257219178566: https://twitter.com/1715435861431451648/status/1740523257219178566/
+2023-12-29 01:00:53,901 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1740538344839508411: https://twitter.com/1715435861431451648/status/1740538344839508411/
