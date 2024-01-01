@@ -433,3 +433,4 @@ Your media IDs are invalid.
 2023-12-31 23:00:58,936 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1741595330829767040: https://twitter.com/1715435861431451648/status/1741595330829767040/
 2024-01-01 00:00:49,610 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_before_comforting_each_other_in_v9.jpg'] and id 1741610390243443153: https://twitter.com/1715435861431451648/status/1741610390243443153/
 2024-01-01 01:00:47,108 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1741625479839301772: https://twitter.com/1715435861431451648/status/1741625479839301772/
+2024-01-01 02:00:50,844 - log - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] and id 1741640594974273967: https://twitter.com/1715435861431451648/status/1741640594974273967/
