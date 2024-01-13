@@ -744,3 +744,4 @@ Your media IDs are invalid.
 2024-01-13 15:00:57,236 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1746185569649184853: https://twitter.com/1715435861431451648/status/1746185569649184853/
 2024-01-13 16:00:53,031 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 400 Bad Request
 Your media IDs are invalid.
+2024-01-13 17:00:55,283 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif'] and id 1746215760190398596: https://twitter.com/1715435861431451648/status/1746215760190398596/
