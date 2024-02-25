@@ -1773,3 +1773,4 @@ Your media IDs are invalid.
 2024-02-25 11:00:56,045 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_angst_weiss???.mp4'] and id 1761707845165212064: https://twitter.com/1715435861431451648/status/1761707845165212064/
 2024-02-25 12:00:56,840 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1761722947348414507: https://twitter.com/1715435861431451648/status/1761722947348414507/
 2024-02-25 13:00:54,506 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1761738037594145068: https://twitter.com/1715435861431451648/status/1761738037594145068/
+2024-02-25 14:01:03,458 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1761753174665560357: https://twitter.com/1715435861431451648/status/1761753174665560357/
