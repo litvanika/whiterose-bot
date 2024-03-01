@@ -1898,3 +1898,4 @@ Your media IDs are invalid.
 2024-03-01 16:01:02,675 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1763595309114916889: https://twitter.com/1715435861431451648/status/1763595309114916889/
 2024-03-01 17:01:34,739 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_silly.gif'] and id 1763610543301018003: https://twitter.com/1715435861431451648/status/1763610543301018003/
 2024-03-01 18:01:06,009 - log - INFO - Created a tweet with media: ['assets/whiterose_its_a_combat_skirt.gif'] and id 1763625522251116761: https://twitter.com/1715435861431451648/status/1763625522251116761/
+2024-03-01 19:01:08,184 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] and id 1763640630524469309: https://twitter.com/1715435861431451648/status/1763640630524469309/
