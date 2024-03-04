@@ -1970,3 +1970,4 @@ Your media IDs are invalid.
 2024-03-04 16:00:59,674 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1764682460585934948: https://twitter.com/1715435861431451648/status/1764682460585934948/
 2024-03-04 17:01:38,110 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_appearing_from_behind_a_column.gif'] and id 1764697719904625024: https://twitter.com/1715435861431451648/status/1764697719904625024/
 2024-03-04 18:00:54,722 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1764712638783635771: https://twitter.com/1715435861431451648/status/1764712638783635771/
+2024-03-04 19:00:56,180 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1764727744380710980: https://twitter.com/1715435861431451648/status/1764727744380710980/
