@@ -2006,3 +2006,4 @@ Your media IDs are invalid.
 2024-03-06 04:00:47,284 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1765225990354055262: https://twitter.com/1715435861431451648/status/1765225990354055262/
 2024-03-06 05:00:54,199 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1765241119057629442: https://twitter.com/1715435861431451648/status/1765241119057629442/
 2024-03-06 06:00:59,387 - log - INFO - Created a tweet with media: ['assets/whiterose_combat_ready.gif'] and id 1765256239725117848: https://twitter.com/1715435861431451648/status/1765256239725117848/
+2024-03-06 07:00:53,698 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1765271315718508589: https://twitter.com/1715435861431451648/status/1765271315718508589/
