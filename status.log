@@ -2016,3 +2016,4 @@ Your media IDs are invalid.
 2024-03-06 14:01:08,083 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1765377072594371069: https://twitter.com/1715435861431451648/status/1765377072594371069/
 2024-03-06 15:00:59,101 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1765392134440382850: https://twitter.com/1715435861431451648/status/1765392134440382850/
 2024-03-06 16:01:02,347 - log - INFO - Created a tweet with media: ['assets/whiterose_comforting_each_other.gif'] and id 1765407247100776920: https://twitter.com/1715435861431451648/status/1765407247100776920/
+2024-03-06 17:00:51,550 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] and id 1765422301091184898: https://twitter.com/1715435861431451648/status/1765422301091184898/
