@@ -3302,3 +3302,4 @@ Your media IDs are invalid.
 2024-04-29 05:01:02,464 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif'] and id 1784810093885706540: https://twitter.com/1715435861431451648/status/1784810093885706540/
 2024-04-29 06:00:59,174 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_chess_battle.jpg'] and id 1784825183901040804: https://twitter.com/1715435861431451648/status/1784825183901040804/
 2024-04-29 07:01:03,824 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1784840303276605467: https://twitter.com/1715435861431451648/status/1784840303276605467/
+2024-04-29 08:02:00,094 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_boop.gif']: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
