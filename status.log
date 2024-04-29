@@ -3310,3 +3310,4 @@ Your media IDs are invalid.
 2024-04-29 13:01:04,039 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_before_comforting_each_other_in_v9.jpg'] and id 1784930900620218849: https://twitter.com/1715435861431451648/status/1784930900620218849/
 2024-04-29 14:01:04,292 - log - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1784946001372938573: https://twitter.com/1715435861431451648/status/1784946001372938573/
 2024-04-29 15:01:07,959 - log - INFO - Created a tweet with media: ['assets/whiterose_v5_rwby_group_hug.gif'] and id 1784961116172603418: https://twitter.com/1715435861431451648/status/1784961116172603418/
+2024-04-29 16:01:14,714 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_catches_ruby.gif'] and id 1784976243869319590: https://twitter.com/1715435861431451648/status/1784976243869319590/
