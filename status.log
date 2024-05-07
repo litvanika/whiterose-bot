@@ -3491,3 +3491,4 @@ Your media IDs are invalid.
 2024-05-07 02:00:59,811 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1787663890957951369: https://twitter.com/1715435861431451648/status/1787663890957951369/
 2024-05-07 03:01:00,732 - log - INFO - Created a tweet with media: ['assets/whiterose_v5_rwby_group_hug.gif'] and id 1787678994932060237: https://twitter.com/1715435861431451648/status/1787678994932060237/
 2024-05-07 04:01:00,019 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1787694090961740207: https://twitter.com/1715435861431451648/status/1787694090961740207/
+2024-05-07 05:01:03,891 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_ruby_fingers.gif'] and id 1787709207149740523: https://twitter.com/1715435861431451648/status/1787709207149740523/
