@@ -3835,3 +3835,4 @@ Your media IDs are invalid.
 2024-05-21 10:01:08,822 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1792858155585573250: https://twitter.com/1715435861431451648/status/1792858155585573250/
 2024-05-21 11:01:22,755 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1792873313707958724: https://twitter.com/1715435861431451648/status/1792873313707958724/
 2024-05-21 12:01:05,853 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1792888341471350810: https://twitter.com/1715435861431451648/status/1792888341471350810/
+2024-05-21 13:01:09,565 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1792903457113874464: https://twitter.com/1715435861431451648/status/1792903457113874464/
