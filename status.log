@@ -4780,3 +4780,4 @@ Your media IDs are invalid.
 2024-06-30 01:01:13,252 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1807217793026126062: https://twitter.com/1715435861431451648/status/1807217793026126062/
 2024-06-30 02:01:12,340 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1807232888854761637: https://twitter.com/1715435861431451648/status/1807232888854761637/
 2024-06-30 03:01:11,180 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1807247983194603784: https://twitter.com/1715435861431451648/status/1807247983194603784/
+2024-06-30 04:01:13,699 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1807263093652885943: https://twitter.com/1715435861431451648/status/1807263093652885943/
