@@ -255,3 +255,4 @@
 2024-07-13 19:00:47,445 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1812200516195152321: https://twitter.com/1715435861431451648/status/1812200516195152321/
 2024-07-13 20:00:48,645 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_looking_at_ruby_softly.gif'] and id 1812215622027427858: https://twitter.com/1715435861431451648/status/1812215622027427858/
 2024-07-13 21:00:51,744 - log - INFO - Created a tweet with media: ['assets/whiterose_angst_v8.mp4'] and id 1812230735354306843: https://twitter.com/1715435861431451648/status/1812230735354306843/
+2024-07-13 22:00:46,248 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1812245811264213159: https://twitter.com/1715435861431451648/status/1812245811264213159/
