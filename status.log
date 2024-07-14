@@ -268,3 +268,4 @@
 2024-07-14 08:00:52,064 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1812396830845505621: https://twitter.com/1715435861431451648/status/1812396830845505621/
 2024-07-14 09:00:47,119 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1812411909385433546: https://twitter.com/1715435861431451648/status/1812411909385433546/
 2024-07-14 10:00:53,580 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif'] and id 1812427035865645069: https://twitter.com/1715435861431451648/status/1812427035865645069/
+2024-07-14 11:00:49,645 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1812442119082029453: https://twitter.com/1715435861431451648/status/1812442119082029453/
