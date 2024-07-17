@@ -342,3 +342,4 @@
 2024-07-17 10:00:46,140 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg'] and id 1813514168735088772: https://twitter.com/1715435861431451648/status/1813514168735088772/
 2024-07-17 11:00:48,670 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils/whiterose_pencils.jpg'] and id 1813529275963711566: https://twitter.com/1715435861431451648/status/1813529275963711566/
 2024-07-17 12:00:47,795 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1813544374396932301: https://twitter.com/1715435861431451648/status/1813544374396932301/
+2024-07-17 13:00:50,941 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif'] and id 1813559487170580937: https://twitter.com/1715435861431451648/status/1813559487170580937/
