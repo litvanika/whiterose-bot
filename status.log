@@ -499,3 +499,4 @@
 2024-07-23 23:00:47,077 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1815884792975577239: https://twitter.com/1715435861431451648/status/1815884792975577239/
 2024-07-24 00:00:47,639 - log - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1815899894709903633: https://twitter.com/1715435861431451648/status/1815899894709903633/
 2024-07-24 01:00:47,330 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1815914993470054707: https://twitter.com/1715435861431451648/status/1815914993470054707/
+2024-07-24 02:00:49,627 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1815930102527697013: https://twitter.com/1715435861431451648/status/1815930102527697013/
