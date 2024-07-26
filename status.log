@@ -548,3 +548,4 @@
 2024-07-26 00:00:46,761 - log - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1816624667085451589: https://twitter.com/1715435861431451648/status/1816624667085451589/
 2024-07-26 01:00:43,681 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1816639753535561944: https://twitter.com/1715435861431451648/status/1816639753535561944/
 2024-07-26 02:00:43,755 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1816654853197742516: https://twitter.com/1715435861431451648/status/1816654853197742516/
+2024-07-26 03:00:46,884 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1816669966013501665: https://twitter.com/1715435861431451648/status/1816669966013501665/
