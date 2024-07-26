@@ -565,3 +565,4 @@
 2024-07-26 17:00:48,875 - log - INFO - Created a tweet with media: ['assets/whiterose_crwby_art.jpeg'] and id 1816881367432471001: https://twitter.com/1715435861431451648/status/1816881367432471001/
 2024-07-26 18:00:46,568 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1816896457104064599: https://twitter.com/1715435861431451648/status/1816896457104064599/
 2024-07-26 19:00:47,532 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils/whiterose_pencils.jpg'] and id 1816911559047938238: https://twitter.com/1715435861431451648/status/1816911559047938238/
+2024-07-26 20:00:47,507 - log - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] and id 1816926660308140498: https://twitter.com/1715435861431451648/status/1816926660308140498/
