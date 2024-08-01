@@ -707,3 +707,4 @@
 2024-08-01 15:00:49,822 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 503 Service Unavailable
 Service Unavailable
 2024-08-01 16:00:50,632 - log - INFO - Created a tweet with media: ['assets/whiterose_perfection/perfection.png', 'assets/whiterose_judging_red_prince_together.jpeg', 'assets/whiterose_hug_jl_part_2_ending.jpg', 'assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1819040602081968354: https://twitter.com/1715435861431451648/status/1819040602081968354/
+2024-08-01 17:00:47,063 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_silly.gif'] and id 1819055686833050030: https://twitter.com/1715435861431451648/status/1819055686833050030/
