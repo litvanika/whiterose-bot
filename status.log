@@ -704,3 +704,5 @@
 2024-08-01 12:00:49,965 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1818980201789063392: https://twitter.com/1715435861431451648/status/1818980201789063392/
 2024-08-01 13:00:48,495 - log - INFO - Created a tweet with media: ['assets/whiterose_kiss.gif'] and id 1818995294421324137: https://twitter.com/1715435861431451648/status/1818995294421324137/
 2024-08-01 14:00:49,120 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss???_ruby???.mp4'] and id 1819010397355303225: https://twitter.com/1715435861431451648/status/1819010397355303225/
+2024-08-01 15:00:49,822 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 503 Service Unavailable
+Service Unavailable
