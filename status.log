@@ -732,3 +732,4 @@ Service Unavailable
 2024-08-02 15:00:51,327 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1819387893908902159: https://twitter.com/1715435861431451648/status/1819387893908902159/
 2024-08-02 16:00:49,699 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1819402986252063145: https://twitter.com/1715435861431451648/status/1819402986252063145/
 2024-08-02 17:00:48,542 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] and id 1819418080633581714: https://twitter.com/1715435861431451648/status/1819418080633581714/
+2024-08-02 18:00:48,243 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1819433179406852367: https://twitter.com/1715435861431451648/status/1819433179406852367/
