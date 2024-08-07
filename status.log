@@ -852,3 +852,4 @@ Service Unavailable
 2024-08-07 15:00:51,239 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1821199831982801231: https://twitter.com/1715435861431451648/status/1821199831982801231/
 2024-08-07 16:00:54,739 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_spinning_ruby.gif'] and id 1821214946384113914: https://twitter.com/1715435861431451648/status/1821214946384113914/
 2024-08-07 17:00:51,079 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1821230031072362819: https://twitter.com/1715435861431451648/status/1821230031072362819/
+2024-08-07 18:00:51,809 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1821245133419069446: https://twitter.com/1715435861431451648/status/1821245133419069446/
