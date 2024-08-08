@@ -859,3 +859,4 @@ Service Unavailable
 2024-08-07 22:00:52,291 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1821305533296439357: https://twitter.com/1715435861431451648/status/1821305533296439357/
 2024-08-07 23:00:46,766 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1821320609965473930: https://twitter.com/1715435861431451648/status/1821320609965473930/
 2024-08-08 00:00:50,562 - log - INFO - Created a tweet with media: ['assets/whiterose_its_a_combat_skirt.gif'] and id 1821335725003907572: https://twitter.com/1715435861431451648/status/1821335725003907572/
+2024-08-08 01:00:49,425 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1821350819674853720: https://twitter.com/1715435861431451648/status/1821350819674853720/
