@@ -1077,3 +1077,4 @@ Service Unavailable
 2024-08-17 00:00:58,745 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1824597250347241966: https://twitter.com/1715435861431451648/status/1824597250347241966/
 2024-08-17 01:00:50,544 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1824612315515204084: https://twitter.com/1715435861431451648/status/1824612315515204084/
 2024-08-17 02:00:46,891 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1824627399734009934: https://twitter.com/1715435861431451648/status/1824627399734009934/
+2024-08-17 03:00:49,063 - log - INFO - Created a tweet with media: ['assets/whiterose_standing_up_in_v6_opening.gif'] and id 1824642508346769453: https://twitter.com/1715435861431451648/status/1824642508346769453/
