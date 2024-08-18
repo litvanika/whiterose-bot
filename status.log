@@ -1111,3 +1111,4 @@ Service Unavailable
 2024-08-18 10:00:50,009 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1825110596229951722: https://twitter.com/1715435861431451648/status/1825110596229951722/
 2024-08-18 11:00:47,674 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1825125685758767320: https://twitter.com/1715435861431451648/status/1825125685758767320/
 2024-08-18 12:00:50,131 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1825140796082786680: https://twitter.com/1715435861431451648/status/1825140796082786680/
+2024-08-18 13:00:53,898 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1825155911629078591: https://twitter.com/1715435861431451648/status/1825155911629078591/
