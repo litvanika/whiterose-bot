@@ -1197,3 +1197,4 @@ Service Unavailable
 2024-08-22 00:00:56,222 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_6_opening.jpeg'] and id 1826409179319570684: https://twitter.com/1715435861431451648/status/1826409179319570684/
 2024-08-22 01:01:05,016 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1826424315795177767: https://twitter.com/1715435861431451648/status/1826424315795177767/
 2024-08-22 02:00:53,816 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss???_ruby???.mp4'] and id 1826439368283763110: https://twitter.com/1715435861431451648/status/1826439368283763110/
+2024-08-22 03:00:53,238 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_spinning_ruby.gif'] and id 1826454464863121562: https://twitter.com/1715435861431451648/status/1826454464863121562/
