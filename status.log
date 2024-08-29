@@ -1362,3 +1362,4 @@ Service Unavailable
 2024-08-28 21:00:53,229 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_silly.gif'] and id 1828900583048147013: https://twitter.com/1715435861431451648/status/1828900583048147013/
 2024-08-28 22:00:51,662 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_spinning_ruby.gif'] and id 1828915675932377329: https://twitter.com/1715435861431451648/status/1828915675932377329/
 2024-08-28 23:00:52,356 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1828930778467840207: https://twitter.com/1715435861431451648/status/1828930778467840207/
+2024-08-29 00:00:50,716 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1828945870798143728: https://twitter.com/1715435861431451648/status/1828945870798143728/
