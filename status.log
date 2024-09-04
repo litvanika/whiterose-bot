@@ -1506,3 +1506,4 @@ Service Unavailable
 2024-09-03 21:00:51,672 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1831074904067739759: https://twitter.com/1715435861431451648/status/1831074904067739759/
 2024-09-03 22:00:53,825 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1831090011917197477: https://twitter.com/1715435861431451648/status/1831090011917197477/
 2024-09-03 23:00:59,036 - log - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] and id 1831105133834363050: https://twitter.com/1715435861431451648/status/1831105133834363050/
+2024-09-04 00:00:51,405 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1831120201250701531: https://twitter.com/1715435861431451648/status/1831120201250701531/
