@@ -1610,3 +1610,4 @@ Service Unavailable
 2024-09-08 05:00:49,285 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1832645241381253329: https://twitter.com/1715435861431451648/status/1832645241381253329/
 2024-09-08 06:00:50,421 - log - INFO - Created a tweet with media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg'] and id 1832660345573245347: https://twitter.com/1715435861431451648/status/1832660345573245347/
 2024-09-08 07:00:49,443 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1832675440638448005: https://twitter.com/1715435861431451648/status/1832675440638448005/
+2024-09-08 08:00:50,933 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_hug.gif'] and id 1832690546491716008: https://twitter.com/1715435861431451648/status/1832690546491716008/
