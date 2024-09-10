@@ -1670,3 +1670,4 @@ Service Unavailable
 2024-09-10 17:00:51,100 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils/whiterose_pencils.jpg'] and id 1833551216153944140: https://twitter.com/1715435861431451648/status/1833551216153944140/
 2024-09-10 18:00:52,468 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_boop.gif'] and id 1833566323844255806: https://twitter.com/1715435861431451648/status/1833566323844255806/
 2024-09-10 19:00:52,914 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1833581424873501000: https://twitter.com/1715435861431451648/status/1833581424873501000/
+2024-09-10 20:00:53,808 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1833596528340176906: https://twitter.com/1715435861431451648/status/1833596528340176906/
