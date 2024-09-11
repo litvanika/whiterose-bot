@@ -1695,3 +1695,4 @@ Service Unavailable
 2024-09-11 18:00:53,547 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1833928716189122625: https://twitter.com/1715435861431451648/status/1833928716189122625/
 2024-09-11 19:00:54,444 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1833943819227988173: https://twitter.com/1715435861431451648/status/1833943819227988173/
 2024-09-11 20:00:52,998 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif'] and id 1833958912812614071: https://twitter.com/1715435861431451648/status/1833958912812614071/
+2024-09-11 21:00:48,948 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_with_petals.gif'] and id 1833973995227545727: https://twitter.com/1715435861431451648/status/1833973995227545727/
