@@ -1721,3 +1721,4 @@ Service Unavailable
 2024-09-12 20:00:48,504 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1834321281761624507: https://twitter.com/1715435861431451648/status/1834321281761624507/
 2024-09-12 21:00:46,792 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_ruby_fingers.gif'] and id 1834336374016614622: https://twitter.com/1715435861431451648/status/1834336374016614622/
 2024-09-12 22:01:00,172 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_hug.gif'] and id 1834351529597505581: https://twitter.com/1715435861431451648/status/1834351529597505581/
+2024-09-12 23:00:48,023 - log - INFO - Created a tweet with media: ['assets/whiterose_soft.jpeg'] and id 1834366578432807259: https://twitter.com/1715435861431451648/status/1834366578432807259/
