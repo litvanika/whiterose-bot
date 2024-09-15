@@ -1793,3 +1793,4 @@ Service Unavailable
 2024-09-15 20:00:51,043 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1835408456419004810: https://twitter.com/1715435861431451648/status/1835408456419004810/
 2024-09-15 21:00:45,573 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg'] and id 1835423532844478570: https://twitter.com/1715435861431451648/status/1835423532844478570/
 2024-09-15 22:00:52,906 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1835438662697292163: https://twitter.com/1715435861431451648/status/1835438662697292163/
+2024-09-15 23:00:50,592 - log - INFO - Created a tweet with media: ['assets/whiterose_hugging_and_crying_v1.gif'] and id 1835453752779685948: https://twitter.com/1715435861431451648/status/1835453752779685948/
