@@ -1919,3 +1919,4 @@ Service Unavailable
 2024-09-21 02:00:49,197 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_with_petals.gif'] and id 1837310984576274628: https://twitter.com/1715435861431451648/status/1837310984576274628/
 2024-09-21 03:00:49,484 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] and id 1837326085135933877: https://twitter.com/1715435861431451648/status/1837326085135933877/
 2024-09-21 04:00:46,122 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_7.jpeg'] and id 1837341170696929550: https://twitter.com/1715435861431451648/status/1837341170696929550/
+2024-09-21 05:00:49,759 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1837356285307592716: https://twitter.com/1715435861431451648/status/1837356285307592716/
