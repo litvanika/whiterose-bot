@@ -1941,3 +1941,4 @@ Service Unavailable
 2024-09-22 00:00:48,586 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1837643170982621493: https://twitter.com/1715435861431451648/status/1837643170982621493/
 2024-09-22 01:00:49,373 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_running.gif'] and id 1837658273765642274: https://twitter.com/1715435861431451648/status/1837658273765642274/
 2024-09-22 02:00:46,880 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1837673363000766602: https://twitter.com/1715435861431451648/status/1837673363000766602/
+2024-09-22 03:00:57,589 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1837688507529413010: https://twitter.com/1715435861431451648/status/1837688507529413010/
