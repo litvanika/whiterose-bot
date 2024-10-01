@@ -2157,3 +2157,4 @@ Service Unavailable
 2024-10-01 00:00:56,510 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1840904694824112224: https://twitter.com/1715435861431451648/status/1840904694824112224/
 2024-10-01 01:00:50,624 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1840919769576587380: https://twitter.com/1715435861431451648/status/1840919769576587380/
 2024-10-01 02:00:48,088 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1840934858694005004: https://twitter.com/1715435861431451648/status/1840934858694005004/
+2024-10-01 03:00:51,419 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif'] and id 1840949968204345792: https://twitter.com/1715435861431451648/status/1840949968204345792/
