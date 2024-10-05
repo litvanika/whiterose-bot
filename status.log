@@ -2253,3 +2253,4 @@ Service Unavailable
 2024-10-05 00:00:54,362 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1842354237201867187: https://twitter.com/1715435861431451648/status/1842354237201867187/
 2024-10-05 01:00:48,657 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_explosion.jpeg'] and id 1842369313145270751: https://twitter.com/1715435861431451648/status/1842369313145270751/
 2024-10-05 02:00:48,470 - log - INFO - Created a tweet with media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg'] and id 1842384411838554298: https://twitter.com/1715435861431451648/status/1842384411838554298/
+2024-10-05 03:00:50,295 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_sliding_in_to_the_screen_from_the_left.gif'] and id 1842399518798520401: https://twitter.com/1715435861431451648/status/1842399518798520401/
