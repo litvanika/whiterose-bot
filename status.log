@@ -2298,3 +2298,4 @@ Service Unavailable
 2024-10-06 21:00:47,998 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_explosion.jpeg'] and id 1843033688054943981: https://twitter.com/1715435861431451648/status/1843033688054943981/
 2024-10-06 22:00:51,029 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1843048800287359050: https://twitter.com/1715435861431451648/status/1843048800287359050/
 2024-10-06 23:00:50,275 - log - INFO - Created a tweet with media: ['assets/whiterose_holding_hands.png'] and id 1843063896120176861: https://twitter.com/1715435861431451648/status/1843063896120176861/
+2024-10-07 00:00:52,986 - log - INFO - Created a tweet with media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif'] and id 1843079007291768886: https://twitter.com/1715435861431451648/status/1843079007291768886/
