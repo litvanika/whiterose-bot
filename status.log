@@ -2451,3 +2451,4 @@ Service Unavailable
 2024-10-13 05:00:49,636 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_chess_battle.jpg'] and id 1845328818019434527: https://twitter.com/1715435861431451648/status/1845328818019434527/
 2024-10-13 06:00:48,739 - log - INFO - Created a tweet with media: ['assets/whiterose_its_a_combat_skirt.gif'] and id 1845343913650864629: https://twitter.com/1715435861431451648/status/1845343913650864629/
 2024-10-13 07:00:48,890 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_chess_battle.jpg'] and id 1845359013820530729: https://twitter.com/1715435861431451648/status/1845359013820530729/
+2024-10-13 08:00:52,242 - log - INFO - Created a tweet with media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif'] and id 1845374126661435700: https://twitter.com/1715435861431451648/status/1845374126661435700/
