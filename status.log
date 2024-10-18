@@ -2576,3 +2576,4 @@ Service Unavailable
 2024-10-18 10:00:49,909 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1847216255788278043: https://twitter.com/1715435861431451648/status/1847216255788278043/
 2024-10-18 11:00:51,970 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1847231363952279875: https://twitter.com/1715435861431451648/status/1847231363952279875/
 2024-10-18 12:00:48,247 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1847246447692951961: https://twitter.com/1715435861431451648/status/1847246447692951961/
+2024-10-18 13:00:51,046 - log - INFO - Created a tweet with media: ['assets/whiterose_v5_rwby_group_hug.gif'] and id 1847261559136874575: https://twitter.com/1715435861431451648/status/1847261559136874575/
