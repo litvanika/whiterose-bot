@@ -2651,3 +2651,4 @@ Service Unavailable
 2024-10-21 13:01:00,477 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1848348762072121490: https://twitter.com/1715435861431451648/status/1848348762072121490/
 2024-10-21 14:00:54,831 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1848363838254510421: https://twitter.com/1715435861431451648/status/1848363838254510421/
 2024-10-21 15:00:55,998 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1848378941947441353: https://twitter.com/1715435861431451648/status/1848378941947441353/
+2024-10-21 16:00:59,766 - log - INFO - Created a tweet with media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg'] and id 1848394057900282105: https://twitter.com/1715435861431451648/status/1848394057900282105/
