@@ -2703,3 +2703,4 @@ Service Unavailable
 2024-10-23 17:01:02,454 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1849133942198218792: https://twitter.com/1715435861431451648/status/1849133942198218792/
 2024-10-23 18:00:58,340 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1849149024831508553: https://twitter.com/1715435861431451648/status/1849149024831508553/
 2024-10-23 19:01:04,589 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1849164150578233855: https://twitter.com/1715435861431451648/status/1849164150578233855/
+2024-10-23 20:01:01,865 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1849179240539046054: https://twitter.com/1715435861431451648/status/1849179240539046054/
