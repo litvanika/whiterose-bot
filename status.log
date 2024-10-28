@@ -2804,3 +2804,4 @@ Service Unavailable
 2024-10-27 22:01:01,881 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1850658990449217563: https://twitter.com/1715435861431451648/status/1850658990449217563/
 2024-10-27 23:00:58,148 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1850674074785124775: https://twitter.com/1715435861431451648/status/1850674074785124775/
 2024-10-28 00:01:03,519 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1850689196756701675: https://twitter.com/1715435861431451648/status/1850689196756701675/
+2024-10-28 01:01:02,520 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1850704292170109110: https://twitter.com/1715435861431451648/status/1850704292170109110/
