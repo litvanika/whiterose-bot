@@ -2807,3 +2807,4 @@ Service Unavailable
 2024-10-28 01:01:02,520 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1850704292170109110: https://twitter.com/1715435861431451648/status/1850704292170109110/
 2024-10-28 02:01:02,273 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif'] and id 1850719390523945231: https://twitter.com/1715435861431451648/status/1850719390523945231/
 2024-10-28 03:01:00,781 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_looking_at_ruby_softly.gif'] and id 1850734483835691194: https://twitter.com/1715435861431451648/status/1850734483835691194/
+2024-10-28 04:01:02,297 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils/whiterose_pencils.jpg'] and id 1850749587624956168: https://twitter.com/1715435861431451648/status/1850749587624956168/
