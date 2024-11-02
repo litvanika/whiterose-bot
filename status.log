@@ -2934,3 +2934,5 @@ Service Unavailable
 2024-11-02 09:01:02,383 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1852637026912555478: https://twitter.com/1715435861431451648/status/1852637026912555478/
 2024-11-02 10:00:59,363 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1852652113303580811: https://twitter.com/1715435861431451648/status/1852652113303580811/
 2024-11-02 11:00:59,883 - log - INFO - Created a tweet with media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg'] and id 1852667215369183691: https://twitter.com/1715435861431451648/status/1852667215369183691/
+2024-11-02 12:01:01,123 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 429 Too Many Requests
+Too Many Requests
