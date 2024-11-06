@@ -3028,3 +3028,4 @@ Too Many Requests
 2024-11-06 00:01:02,140 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg']: 429 Too Many Requests
 Too Many Requests
 2024-11-06 01:01:02,900 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_weiss_catches_ruby.gif'] and id 1853965784147521565: https://twitter.com/1715435861431451648/status/1853965784147521565/
+2024-11-06 02:01:02,394 - log - INFO - Created a tweet with media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg'] and id 1853980881393774659: https://twitter.com/1715435861431451648/status/1853980881393774659/
