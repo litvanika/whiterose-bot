@@ -3045,3 +3045,5 @@ Too Many Requests
 Too Many Requests
 2024-11-06 15:01:03,955 - log - ERROR - Failed to upload media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-06 16:01:00,898 - log - ERROR - Failed to upload media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif']: 429 Too Many Requests
+Too Many Requests
