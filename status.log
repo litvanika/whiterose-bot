@@ -3043,3 +3043,5 @@ Too Many Requests
 Too Many Requests
 2024-11-06 14:01:03,155 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-06 15:01:03,955 - log - ERROR - Failed to upload media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif']: 429 Too Many Requests
+Too Many Requests
