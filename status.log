@@ -3099,3 +3099,4 @@ Too Many Requests
 Too Many Requests
 2024-11-08 16:01:06,388 - log - ERROR - Failed to upload media: ['assets/whiterose_ruby_swag.png']: 429 Too Many Requests
 Too Many Requests
+2024-11-08 17:01:03,922 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_explosion.jpeg'] and id 1854932156386034056: https://twitter.com/1715435861431451648/status/1854932156386034056/
