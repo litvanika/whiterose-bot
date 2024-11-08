@@ -3083,3 +3083,4 @@ Too Many Requests
 2024-11-08 01:01:02,288 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1854690557710184934: https://twitter.com/1715435861431451648/status/1854690557710184934/
 2024-11-08 02:01:03,223 - log - ERROR - Failed to upload media: ['assets/whiterose_crwby_art.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-11-08 03:01:07,647 - log - INFO - Created a tweet with media: ['assets/whiterose_angst_v8.mp4'] and id 1854720779230810505: https://twitter.com/1715435861431451648/status/1854720779230810505/
