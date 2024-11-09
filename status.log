@@ -3111,3 +3111,4 @@ Too Many Requests
 2024-11-09 02:01:02,633 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1855068046496612786: https://twitter.com/1715435861431451648/status/1855068046496612786/
 2024-11-09 03:01:00,080 - log - ERROR - Failed to upload media: ['assets/whiterose_get_whiterosed_lmao.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-09 04:01:02,657 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg'] and id 1855098245300593023: https://twitter.com/1715435861431451648/status/1855098245300593023/
