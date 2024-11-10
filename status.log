@@ -3138,3 +3138,4 @@ Too Many Requests
 2024-11-10 03:01:07,256 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1855445553292976281: https://twitter.com/1715435861431451648/status/1855445553292976281/
 2024-11-10 04:00:58,442 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_smiling_at_ruby_and_ruby_hand_on_weiss_shoulder.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-10 05:01:07,281 - log - INFO - Created a tweet with media: ['assets/whiterose_comforting_each_other.gif'] and id 1855475751908487565: https://twitter.com/1715435861431451648/status/1855475751908487565/
