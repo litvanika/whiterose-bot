@@ -3257,3 +3257,5 @@ Too Many Requests
 2024-11-15 02:01:01,607 - log - INFO - Created a tweet with media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg'] and id 1857242369487217031: https://twitter.com/1715435861431451648/status/1857242369487217031/
 2024-11-15 03:01:04,768 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_smiling_at_ruby_and_ruby_hand_on_weiss_shoulder.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-15 04:01:05,295 - log - ERROR - Failed to upload media: ['assets/whiterose_friendship_bracelets.jpeg']: 429 Too Many Requests
+Too Many Requests
