@@ -3282,3 +3282,4 @@ Too Many Requests
 Too Many Requests
 2024-11-15 20:00:57,424 - log - ERROR - Failed to upload media: ['assets/whiterose_crwby_art.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-11-15 21:01:01,567 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_hug.gif'] and id 1857529259369095340: https://twitter.com/1715435861431451648/status/1857529259369095340/
