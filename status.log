@@ -3267,3 +3267,4 @@ Too Many Requests
 2024-11-15 08:01:04,171 - log - ERROR - Failed to upload media: ['assets/whiterose_judging_red_prince_together.jpeg']: 429 Too Many Requests
 Too Many Requests
 2024-11-15 09:01:04,855 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1857348079499829627: https://twitter.com/1715435861431451648/status/1857348079499829627/
+2024-11-15 10:01:03,359 - log - INFO - Created a tweet with media: ['assets/whiterose_holding_hands.png'] and id 1857363172241424585: https://twitter.com/1715435861431451648/status/1857363172241424585/
