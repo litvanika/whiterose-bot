@@ -3309,3 +3309,5 @@ Too Many Requests
 2024-11-16 18:01:04,773 - log - INFO - Created a tweet with media: ['assets/whiterose_perfection/perfection.png', 'assets/whiterose.png', 'assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg', 'assets/whiterose_pencils.jpg'] and id 1857846360642564580: https://twitter.com/1715435861431451648/status/1857846360642564580/
 2024-11-16 19:01:02,483 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-16 20:01:04,582 - log - ERROR - Failed to upload media: ['assets/whiterose_volume_6_opening.jpeg']: 429 Too Many Requests
+Too Many Requests
