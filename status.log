@@ -3293,3 +3293,5 @@ Too Many Requests
 2024-11-16 05:01:02,995 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1857650061557026861: https://twitter.com/1715435861431451648/status/1857650061557026861/
 2024-11-16 06:01:03,462 - log - ERROR - Failed to upload media: ['assets/whiterose_ruby_swag.png']: 429 Too Many Requests
 Too Many Requests
+2024-11-16 07:01:03,657 - log - ERROR - Failed to upload media: ['assets/whiterose_kiss.gif']: 429 Too Many Requests
+Too Many Requests
