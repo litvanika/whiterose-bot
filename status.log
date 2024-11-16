@@ -3295,3 +3295,5 @@ Too Many Requests
 Too Many Requests
 2024-11-16 07:01:03,657 - log - ERROR - Failed to upload media: ['assets/whiterose_kiss.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-16 08:01:02,570 - log - ERROR - Failed to upload media: ['assets/whiterose_combat_ready.gif']: 429 Too Many Requests
+Too Many Requests
