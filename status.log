@@ -3328,3 +3328,4 @@ Too Many Requests
 2024-11-17 10:01:01,147 - log - ERROR - Failed to upload media: ['assets/whiterose_first_meeting_explosion.jpeg']: 429 Too Many Requests
 Too Many Requests
 2024-11-17 11:01:05,918 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1858103058703741253: https://twitter.com/1715435861431451648/status/1858103058703741253/
+2024-11-17 12:01:05,406 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1858118155849388232: https://twitter.com/1715435861431451648/status/1858118155849388232/
