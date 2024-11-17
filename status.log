@@ -3340,3 +3340,4 @@ Too Many Requests
 2024-11-17 21:01:02,744 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_chess_battle.jpg']: 429 Too Many Requests
 Too Many Requests
 2024-11-17 22:01:01,021 - log - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1858269132644589791: https://twitter.com/1715435861431451648/status/1858269132644589791/
+2024-11-17 23:01:04,328 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1858284245862461777: https://twitter.com/1715435861431451648/status/1858284245862461777/
