@@ -3321,3 +3321,5 @@ Too Many Requests
 2024-11-17 04:01:02,614 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1857997348145598542: https://twitter.com/1715435861431451648/status/1857997348145598542/
 2024-11-17 05:01:01,548 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif'] and id 1858012443399655467: https://twitter.com/1715435861431451648/status/1858012443399655467/
 2024-11-17 06:01:03,404 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1858027550452207834: https://twitter.com/1715435861431451648/status/1858027550452207834/
+2024-11-17 07:01:02,741 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss???_ruby???.mp4']: 429 Too Many Requests
+Too Many Requests
