@@ -3367,3 +3367,4 @@ Too Many Requests
 2024-11-18 22:01:00,514 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1858631516252709254: https://twitter.com/1715435861431451648/status/1858631516252709254/
 2024-11-18 23:01:00,586 - log - ERROR - Failed to upload media: ['assets/whiterose_comforting_each_other.gif']: 429 Too Many Requests
 Too Many Requests
+2024-11-19 00:01:05,150 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1858661736695386589: https://twitter.com/1715435861431451648/status/1858661736695386589/
