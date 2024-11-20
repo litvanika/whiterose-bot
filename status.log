@@ -3395,3 +3395,4 @@ Too Many Requests
 2024-11-20 00:01:00,936 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_angst_weiss???.mp4']: 429 Too Many Requests
 Too Many Requests
 2024-11-20 01:00:57,339 - log - INFO - Created a tweet with media: ['assets/whiterose_good_night.gif'] and id 1859039191436288497: https://twitter.com/1715435861431451648/status/1859039191436288497/
+2024-11-20 02:01:00,095 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_hug.gif'] and id 1859054300707909997: https://twitter.com/1715435861431451648/status/1859054300707909997/
