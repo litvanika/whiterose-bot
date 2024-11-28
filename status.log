@@ -3600,3 +3600,4 @@ Too Many Requests
 2024-11-28 03:01:00,623 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1861968506901999983: https://twitter.com/1715435861431451648/status/1861968506901999983/
 2024-11-28 04:00:57,697 - log - INFO - Created a tweet with media: ['assets/whiterose_standing_up_in_v6_opening.gif'] and id 1861983594119348231: https://twitter.com/1715435861431451648/status/1861983594119348231/
 2024-11-28 05:01:00,296 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1861998704682815513: https://twitter.com/1715435861431451648/status/1861998704682815513/
+2024-11-28 06:00:57,466 - log - INFO - Created a tweet with media: ['assets/whiterose_v3_holding_hands.gif'] and id 1862013792265072717: https://twitter.com/1715435861431451648/status/1862013792265072717/
