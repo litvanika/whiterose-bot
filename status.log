@@ -3695,3 +3695,5 @@ Too Many Requests
 2024-12-02 00:00:59,152 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif'] and id 1863372753753047179: https://twitter.com/1715435861431451648/status/1863372753753047179/
 2024-12-02 01:00:58,148 - log - INFO - Created a tweet with media: ['assets/whiterose_v7.webp'] and id 1863387849145335906: https://twitter.com/1715435861431451648/status/1863387849145335906/
 2024-12-02 02:00:56,840 - log - INFO - Created a tweet with media: ['assets/whiterose_v1_meeting.gif'] and id 1863402943073980505: https://twitter.com/1715435861431451648/status/1863402943073980505/
+2024-12-02 03:00:58,913 - log - ERROR - Failed to upload media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png']: 429 Too Many Requests
+Too Many Requests
