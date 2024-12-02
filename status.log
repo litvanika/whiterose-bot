@@ -3718,3 +3718,4 @@ Too Many Requests
 2024-12-02 19:00:58,589 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_opening.jpeg'] and id 1863659641877541281: https://twitter.com/1715435861431451648/status/1863659641877541281/
 2024-12-02 20:00:58,199 - log - INFO - Created a tweet with media: ['assets/WhiteRoseTipsPoint.jpg'] and id 1863674739828593026: https://twitter.com/1715435861431451648/status/1863674739828593026/
 2024-12-02 21:01:31,355 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1863689978460709291: https://twitter.com/1715435861431451648/status/1863689978460709291/
+2024-12-02 22:00:58,009 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils/whiterose_pencils.jpg'] and id 1863704935608598880: https://twitter.com/1715435861431451648/status/1863704935608598880/
