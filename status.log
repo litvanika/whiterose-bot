@@ -3706,3 +3706,4 @@ Too Many Requests
 2024-12-02 08:00:59,287 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_opening_with_petals.gif']: 429 Too Many Requests
 Too Many Requests
 2024-12-02 09:01:02,142 - log - INFO - Created a tweet with media: ['assets/whiterose_combat_ready.gif'] and id 1863508661492138098: https://twitter.com/1715435861431451648/status/1863508661492138098/
+2024-12-02 10:01:04,963 - log - INFO - Created a tweet with media: ['assets/whiterose_judging_red_prince_together.jpeg'] and id 1863523773124931762: https://twitter.com/1715435861431451648/status/1863523773124931762/
