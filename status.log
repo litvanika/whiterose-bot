@@ -3699,3 +3699,4 @@ Too Many Requests
 Too Many Requests
 2024-12-02 04:01:01,845 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 429 Too Many Requests
 Too Many Requests
+2024-12-02 05:01:05,342 - log - INFO - Created a tweet with media: ['assets/whiterose_pencils.jpg'] and id 1863448275992580511: https://twitter.com/1715435861431451648/status/1863448275992580511/
