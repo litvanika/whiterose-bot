@@ -3756,3 +3756,4 @@ Too Many Requests
 2024-12-04 09:01:01,800 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1864233435524477083: https://twitter.com/1715435861431451648/status/1864233435524477083/
 2024-12-04 10:00:57,604 - log - ERROR - Failed to upload media: ['assets/whiterose_friendship_bracelets.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-12-04 11:01:02,501 - log - INFO - Created a tweet with media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif'] and id 1864263637084590250: https://twitter.com/1715435861431451648/status/1864263637084590250/
