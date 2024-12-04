@@ -3758,3 +3758,4 @@ Too Many Requests
 Too Many Requests
 2024-12-04 11:01:02,501 - log - INFO - Created a tweet with media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif'] and id 1864263637084590250: https://twitter.com/1715435861431451648/status/1864263637084590250/
 2024-12-04 12:01:02,734 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_chess_battle.jpg'] and id 1864278738403512820: https://twitter.com/1715435861431451648/status/1864278738403512820/
+2024-12-04 13:01:04,837 - log - INFO - Created a tweet with media: ['assets/whiterose_storyboard_clip/whiterose_storyboard_clip_0.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_1.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_2.png'] and id 1864293845984321837: https://twitter.com/1715435861431451648/status/1864293845984321837/
