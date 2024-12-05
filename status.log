@@ -3788,3 +3788,4 @@ Too Many Requests
 Too Many Requests
 2024-12-05 13:01:01,998 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 429 Too Many Requests
 Too Many Requests
+2024-12-05 14:01:01,039 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1864671317628170614: https://twitter.com/1715435861431451648/status/1864671317628170614/
