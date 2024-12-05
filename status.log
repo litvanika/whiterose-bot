@@ -3782,3 +3782,5 @@ Service Unavailable
 2024-12-05 09:01:05,474 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1864595839508676998: https://twitter.com/1715435861431451648/status/1864595839508676998/
 2024-12-05 10:01:02,632 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif']: 429 Too Many Requests
 Too Many Requests
+2024-12-05 11:00:59,378 - log - ERROR - Failed to upload media: ['assets/whiterose_good_night.gif']: 429 Too Many Requests
+Too Many Requests
