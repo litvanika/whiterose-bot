@@ -3987,3 +3987,5 @@ Too Many Requests
 2024-12-13 16:01:04,752 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_sliding_in_to_the_screen_from_the_left.gif'] and id 1867600635555983711: https://twitter.com/1715435861431451648/status/1867600635555983711/
 2024-12-13 17:01:01,356 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_boop.gif']: 429 Too Many Requests
 Too Many Requests
+2024-12-13 18:00:57,513 - log - ERROR - Failed to upload media: ['assets/ShesAHazardToMyHealth.png']: 429 Too Many Requests
+Too Many Requests
