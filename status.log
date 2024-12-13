@@ -3989,3 +3989,5 @@ Too Many Requests
 Too Many Requests
 2024-12-13 18:00:57,513 - log - ERROR - Failed to upload media: ['assets/ShesAHazardToMyHealth.png']: 429 Too Many Requests
 Too Many Requests
+2024-12-13 19:00:57,432 - log - ERROR - Failed to upload media: ['assets/whiterose_coffee.jpeg']: 429 Too Many Requests
+Too Many Requests
