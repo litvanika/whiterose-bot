@@ -3991,3 +3991,4 @@ Too Many Requests
 Too Many Requests
 2024-12-13 19:00:57,432 - log - ERROR - Failed to upload media: ['assets/whiterose_coffee.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-12-13 20:01:01,226 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1867661018177884530: https://twitter.com/1715435861431451648/status/1867661018177884530/
