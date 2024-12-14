@@ -4013,3 +4013,4 @@ Too Many Requests
 2024-12-14 15:00:59,404 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1867947901457973686: https://twitter.com/1715435861431451648/status/1867947901457973686/
 2024-12-14 16:00:57,729 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1867962993964634169: https://twitter.com/1715435861431451648/status/1867962993964634169/
 2024-12-14 17:01:00,498 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1867978105253462259: https://twitter.com/1715435861431451648/status/1867978105253462259/
+2024-12-14 18:00:58,151 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1867993195109351888: https://twitter.com/1715435861431451648/status/1867993195109351888/
