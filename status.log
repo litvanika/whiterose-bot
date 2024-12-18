@@ -4117,3 +4117,4 @@ Too Many Requests
 Too Many Requests
 2024-12-18 20:01:04,851 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-12-18 21:01:09,197 - log - INFO - Created a tweet with media: ['assets/whiterose_v5_rwby_group_hug.gif'] and id 1869488091104498011: https://twitter.com/1715435861431451648/status/1869488091104498011/
