@@ -4146,3 +4146,4 @@ Too Many Requests
 2024-12-19 23:01:00,666 - log - INFO - Created a tweet with media: ['assets/whiterose_holding_hands.png'] and id 1869880641849827389: https://twitter.com/1715435861431451648/status/1869880641849827389/
 2024-12-20 00:01:01,940 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_atlas_looking_at_each_other.png']: 429 Too Many Requests
 Too Many Requests
+2024-12-20 01:00:58,676 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1869910832328437764: https://twitter.com/1715435861431451648/status/1869910832328437764/
