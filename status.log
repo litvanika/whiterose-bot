@@ -4285,3 +4285,4 @@ Too Many Requests
 2024-12-25 17:00:55,748 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_spinning_ruby.gif'] and id 1871964351717925142: https://twitter.com/1715435861431451648/status/1871964351717925142/
 2024-12-25 18:00:56,448 - log - INFO - Created a tweet with media: ['assets/whiterose_hugging_and_crying_v1.gif'] and id 1871979454253162610: https://twitter.com/1715435861431451648/status/1871979454253162610/
 2024-12-25 19:00:57,711 - log - INFO - Created a tweet with media: ['assets/whiterose.png'] and id 1871994558755606883: https://twitter.com/1715435861431451648/status/1871994558755606883/
+2024-12-25 20:00:53,374 - log - INFO - Created a tweet with media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg'] and id 1872009640365507021: https://twitter.com/1715435861431451648/status/1872009640365507021/
