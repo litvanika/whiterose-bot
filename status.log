@@ -4293,3 +4293,4 @@ Too Many Requests
 2024-12-26 01:01:00,034 - log - INFO - Created a tweet with media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png'] and id 1872085165599502839: https://twitter.com/1715435861431451648/status/1872085165599502839/
 2024-12-26 02:00:59,838 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-12-26 03:01:01,245 - log - INFO - Created a tweet with media: ['assets/whiterose_ice_queendom_foodfight.gif'] and id 1872115369575661975: https://twitter.com/1715435861431451648/status/1872115369575661975/
