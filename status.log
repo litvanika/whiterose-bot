@@ -4369,3 +4369,5 @@ Too Many Requests
 Too Many Requests
 2024-12-29 04:00:59,149 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 429 Too Many Requests
 Too Many Requests
+2024-12-29 05:00:59,816 - log - ERROR - Failed to upload media: ['assets/whiterose_good_night.gif']: 429 Too Many Requests
+Too Many Requests
