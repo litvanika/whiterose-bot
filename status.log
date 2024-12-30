@@ -4403,3 +4403,4 @@ Too Many Requests
 2024-12-30 10:01:11,506 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1873670660293030233: https://twitter.com/1715435861431451648/status/1873670660293030233/
 2024-12-30 11:01:09,462 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_ruby_fingers.gif'] and id 1873685751684075882: https://twitter.com/1715435861431451648/status/1873685751684075882/
 2024-12-30 12:00:59,526 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1873700809554473129: https://twitter.com/1715435861431451648/status/1873700809554473129/
+2024-12-30 13:01:04,177 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_6_opening.jpeg'] and id 1873715928606859682: https://twitter.com/1715435861431451648/status/1873715928606859682/
