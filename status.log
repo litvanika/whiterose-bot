@@ -4427,3 +4427,4 @@ Too Many Requests
 Too Many Requests
 2024-12-31 09:00:58,750 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_appearing_from_behind_a_column.gif']: 429 Too Many Requests
 Too Many Requests
+2024-12-31 10:00:58,541 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1874032994173763611: https://twitter.com/1715435861431451648/status/1874032994173763611/
