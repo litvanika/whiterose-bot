@@ -4425,3 +4425,5 @@ Too Many Requests
 Too Many Requests
 2024-12-31 08:00:59,364 - log - ERROR - Failed to upload media: ['assets/whiterose_standing_up_in_v6_opening.gif']: 429 Too Many Requests
 Too Many Requests
+2024-12-31 09:00:58,750 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_appearing_from_behind_a_column.gif']: 429 Too Many Requests
+Too Many Requests
