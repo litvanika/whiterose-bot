@@ -4414,3 +4414,4 @@ Too Many Requests
 2024-12-30 21:00:59,802 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1873836706148852096: https://twitter.com/1715435861431451648/status/1873836706148852096/
 2024-12-30 22:00:57,949 - log - INFO - Created a tweet with media: ['assets/whiterose_standing_up_in_v6_opening.gif'] and id 1873851797879591072: https://twitter.com/1715435861431451648/status/1873851797879591072/
 2024-12-30 23:00:59,235 - log - INFO - Created a tweet with media: ['assets/whiterose_ruby_swag.png'] and id 1873866902725878188: https://twitter.com/1715435861431451648/status/1873866902725878188/
+2024-12-31 00:01:00,504 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_explosion.jpeg'] and id 1873882007618351281: https://twitter.com/1715435861431451648/status/1873882007618351281/
