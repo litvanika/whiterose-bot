@@ -4453,3 +4453,5 @@ Too Many Requests
 Too Many Requests
 2025-01-01 09:01:10,347 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg']: 429 Too Many Requests
 Too Many Requests
+2025-01-01 10:00:54,740 - log - ERROR - Failed to upload media: ['assets/whiterose_hug_jl_part_2_ending.jpg']: 429 Too Many Requests
+Too Many Requests
