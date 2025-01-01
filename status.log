@@ -4449,3 +4449,5 @@ Too Many Requests
 2025-01-01 05:01:03,028 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_atlas_looking_at_each_other.png'] and id 1874319903534002614: https://twitter.com/1715435861431451648/status/1874319903534002614/
 2025-01-01 06:01:05,469 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif'] and id 1874335013224763896: https://twitter.com/1715435861431451648/status/1874335013224763896/
 2025-01-01 07:01:11,334 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_with_petals.gif'] and id 1874350137092526511: https://twitter.com/1715435861431451648/status/1874350137092526511/
+2025-01-01 08:01:08,498 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg']: 429 Too Many Requests
+Too Many Requests
