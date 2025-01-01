@@ -4451,3 +4451,5 @@ Too Many Requests
 2025-01-01 07:01:11,334 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_opening_with_petals.gif'] and id 1874350137092526511: https://twitter.com/1715435861431451648/status/1874350137092526511/
 2025-01-01 08:01:08,498 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg']: 429 Too Many Requests
 Too Many Requests
+2025-01-01 09:01:10,347 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg']: 429 Too Many Requests
+Too Many Requests
