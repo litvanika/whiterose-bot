@@ -4481,3 +4481,4 @@ Too Many Requests
 2025-01-02 10:01:19,806 - log - ERROR - Failed to upload media: ['assets/whiterose_storyboard_clip/whiterose_storyboard_clip_0.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_1.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_2.png']: 429 Too Many Requests
 Too Many Requests
 2025-01-02 11:01:20,034 - log - INFO - Created a tweet with media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg'] and id 1874772959799161082: https://twitter.com/1715435861431451648/status/1874772959799161082/
+2025-01-02 12:01:23,618 - log - INFO - Created a tweet with media: ['assets/whiterose_hugging_and_crying_v1.gif'] and id 1874788074095350130: https://twitter.com/1715435861431451648/status/1874788074095350130/
