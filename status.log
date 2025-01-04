@@ -4532,3 +4532,4 @@ Too Many Requests
 2025-01-04 11:01:04,596 - log - ERROR - Failed to upload media: ['assets/whiterose_soft.jpeg']: 429 Too Many Requests
 Too Many Requests
 2025-01-04 12:01:04,683 - log - INFO - Created a tweet with media: ['assets/whiterose_friendship_bracelets.jpeg'] and id 1875512770105405856: https://twitter.com/1715435861431451648/status/1875512770105405856/
+2025-01-04 13:01:03,047 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif'] and id 1875527862729765114: https://twitter.com/1715435861431451648/status/1875527862729765114/
