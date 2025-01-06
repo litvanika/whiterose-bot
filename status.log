@@ -4580,3 +4580,5 @@ Too Many Requests
 2025-01-06 10:01:08,241 - log - INFO - Created a tweet with media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif'] and id 1876207362173964357: https://twitter.com/1715435861431451648/status/1876207362173964357/
 2025-01-06 11:01:04,228 - log - ERROR - Failed to upload media: ['assets/whiterose_sulemio/whiterose_sulemio.jpg']: 429 Too Many Requests
 Too Many Requests
+2025-01-06 12:01:04,931 - log - ERROR - Failed to upload media: ['assets/whiterose_v1_meeting.gif']: 429 Too Many Requests
+Too Many Requests
