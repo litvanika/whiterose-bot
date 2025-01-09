@@ -4660,3 +4660,5 @@ Too Many Requests
 2025-01-09 13:00:58,988 - log - INFO - Created a tweet with media: ['assets/whiterose_first_meeting_ruby_fingers.gif'] and id 1877339785406054560: https://twitter.com/1715435861431451648/status/1877339785406054560/
 2025-01-09 14:00:57,478 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 429 Too Many Requests
 Too Many Requests
+2025-01-09 15:01:01,100 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_opening_with_petals.gif']: 429 Too Many Requests
+Too Many Requests
