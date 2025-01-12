@@ -4739,3 +4739,4 @@ Too Many Requests
 2025-01-12 18:00:55,490 - log - INFO - Created a tweet with media: ['assets/whiterose_its_a_combat_skirt.gif'] and id 1878502430175879470: https://twitter.com/1715435861431451648/status/1878502430175879470/
 2025-01-12 19:00:57,346 - log - ERROR - Failed to upload media: ['assets/whiterose_v5_rwby_group_hug.gif']: 429 Too Many Requests
 Too Many Requests
+2025-01-12 20:00:59,492 - log - INFO - Created a tweet with media: ['assets/whiterose_v7_???.mp4'] and id 1878532647800238439: https://twitter.com/1715435861431451648/status/1878532647800238439/
