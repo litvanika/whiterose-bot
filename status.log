@@ -4820,3 +4820,4 @@ Too Many Requests
 2025-01-15 23:01:01,611 - log - INFO - Created a tweet with media: ['assets/whiterose_combat_ready.gif'] and id 1879665118503379006: https://twitter.com/1715435861431451648/status/1879665118503379006/
 2025-01-16 00:01:04,900 - log - INFO - Created a tweet with media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4'] and id 1879680232107757989: https://twitter.com/1715435861431451648/status/1879680232107757989/
 2025-01-16 01:00:59,003 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_smiling_at_ruby_and_ruby_hand_on_weiss_shoulder.gif'] and id 1879695305907519544: https://twitter.com/1715435861431451648/status/1879695305907519544/
+2025-01-16 02:00:57,730 - log - INFO - Created a tweet with media: ['assets/whiterose_coffee.jpeg'] and id 1879710400440062188: https://twitter.com/1715435861431451648/status/1879710400440062188/
