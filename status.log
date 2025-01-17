@@ -4854,3 +4854,4 @@ Too Many Requests
 2025-01-17 09:00:57,981 - log - INFO - Created a tweet with media: ['assets/ShesAHazardToMyHealth.png'] and id 1880178486058361048: https://twitter.com/1715435861431451648/status/1880178486058361048/
 2025-01-17 10:01:01,081 - log - INFO - Created a tweet with media: ['assets/whiterose_standing_up_in_v6_opening.gif'] and id 1880193598718689791: https://twitter.com/1715435861431451648/status/1880193598718689791/
 2025-01-17 11:01:02,936 - log - INFO - Created a tweet with media: ['assets/whiterose_volume_6_opening.jpeg'] and id 1880208705964351623: https://twitter.com/1715435861431451648/status/1880208705964351623/
+2025-01-17 12:00:57,523 - log - INFO - Created a tweet with media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg'] and id 1880223782003949729: https://twitter.com/1715435861431451648/status/1880223782003949729/
