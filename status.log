@@ -4892,3 +4892,4 @@ Too Many Requests
 2025-01-18 20:01:00,215 - log - INFO - Created a tweet with media: ['assets/whiterose_justice_league_2.jpeg'] and id 1880706977736835524: https://twitter.com/1715435861431451648/status/1880706977736835524/
 2025-01-18 21:01:00,065 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4']: 429 Too Many Requests
 Too Many Requests
+2025-01-18 22:00:58,688 - log - INFO - Created a tweet with media: ['assets/whiterose_kiss.gif'] and id 1880737170048360826: https://twitter.com/1715435861431451648/status/1880737170048360826/
