@@ -3,6 +3,7 @@ import importlib.machinery
 import importlib.util
 import os
 import random
+
 import requests
 import tweepy
 
@@ -70,11 +71,9 @@ def main():
     try:
         convert_all_webp_to_gif()
         assets = get_random_assets()
-        response = tweet(assets)
+        tweet(assets)
     except Exception as e:
         log(e, assets)
-    else:
-        log(response, assets)
 
 
 if __name__ == '__main__':
